@@ -10,25 +10,17 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](![image](https://github.com/Sam291007/Portafolio_TecnolochicasPRO/assets/140006234/c44bc65f-93f4-48da-ad0f-0614e8f0ec93)
-![Uploading image.png…]()
-)
-
-Experiencia:
-
-![Experiencia](imagenes/screenshot2.png)
+!Primera parte de la página web(![image](https://github.com/Sam291007/Portafolio_TecnolochicasPRO/assets/140006234/c44bc65f-93f4-48da-ad0f-0614e8f0ec93)
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+!Proyectos![image](https://github.com/Sam291007/Portafolio_TecnolochicasPRO/assets/140006234/c72c15fe-e8c3-449f-b802-b3ce7fc542f6)
 
-Testimonios:
-
-![Testimonios](imagenes/screenshot4.png)
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+!Contacto![image](https://github.com/Sam291007/Portafolio_TecnolochicasPRO/assets/140006234/95f67d7b-3ddc-45c8-982a-ffc14e059b6d)
+
 
 ## Tecnologías
 
